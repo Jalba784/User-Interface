@@ -64,3 +64,124 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+body {
+	padding: 30px;
+	margin: 0 auto;
+	width: 1300px;
+}
+nav {
+	display: inline-block;
+	margin: 20px 20px;
+}
+a {
+	color: darkgrey;
+	padding: 40px;
+}
+.logo {
+	display: inline-block;
+	margin: 0px 90px;
+}
+.innovate {
+	display: inline-block;
+	padding: 50px 0px 50px 80px;
+	margin: 50px 550px 60px 40px;
+	width: 100px;
+}
+.ino {
+	display: block;
+	margin-right: 50px;
+}
+.on {
+	display: block;
+	margin-left: 90px;
+}
+.demand {
+	display: block;
+	margin-right: 10px;
+}
+h1 {
+	font-size: 98px;
+	vertical-align: top;
+}
+p#button {
+	width: 190px;
+	border: 1px solid black;
+	color: black;
+	margin-left: 50px;
+	text-align: center;
+	font-size: 20px;
+	padding: 10px 0px 10px 0px;
+}
+.main-text {
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+}
+h4 {
+	font-size: 20px;
+}
+.featr {
+	display: inline-block;
+	width: 600px;
+	padding: 0px 50px 50px 0px;
+	margin: 50px 30px 0px 0px;
+}
+#feature {
+	font-size: 20px;
+}
+.featr p{
+	font-size: 20px;
+}
+.abt {
+	display: inline-block;
+	width: 600px;
+	padding: 0px 50px 50px 0px;
+}
+#about {
+	font-size: 20px;
+}
+.abt p {
+	font-size: 20px;
+}
+
+.middle-img {
+	width: 1240px;
+}
+.serv {
+	display: inline-block;
+	width: 350px;
+	font-size: 10px;
+	padding: 50px 0px 30px 0px;
+	margin: 0px 70px 50px 0px;
+}
+.serv p {
+	font-size: 20px;
+}
+.prdt {
+	display: inline-block;
+	width: 350px;
+	margin: 0px 70px 0px 0px;
+}
+.prdt p {
+	font-size: 20px;
+}
+.vis {
+	display: inline-block;
+	width: 350px;
+}
+.vis p {
+	font-size: 20px;
+}
+address {
+	padding: 50px 0px 0px 0px;
+}
+address p {
+	width: 200px;
+	font-size: 20px;
+}
+small {
+	display: block;
+	text-align: center;
+	font-size: 15px;
+	padding: 10px;
+	margin: 40px 0px 100px 0px;
+}
